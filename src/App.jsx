@@ -11,7 +11,7 @@ function App() {
     <Router basename='/vite-navigation'>
       <Routes>
         <Route path='/' element={<Main />} />
-        <Route path='/page2' element={<Second />} />
+        <Route path='/hebeRechner' element={<Second />} />
         <Route path='/page3' element={<Third />} />
       </Routes>
     </Router>
