@@ -4,7 +4,7 @@ function Main(){
     return(
         <Link to="/page2">
             <h1>Startseite</h1>
-            <button type="button">Zur seite 2222222</button>
+            <button type="button">Zur seite12313afdsafsavs 2222222</button>
         </Link>
     );
 }
