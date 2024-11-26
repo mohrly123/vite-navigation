@@ -1,12 +1,12 @@
 import { Link } from "react-router-dom";
 
-function Second(){
+function Third(){
     return(
-        <Link to="/page3">
-            <h1>Seite 2</h1>
+        <Link to="/">
+            <h1>Seite 3</h1>
             <button type="button">Zur Main Page</button>
         </Link>
     );
 }
 
-export default Second;
+export default Third;
